@@ -1,0 +1,2 @@
+# smarthome
+A school project
